@@ -1,0 +1,17 @@
+{
+  "todo": [
+    {
+      "message": "init repo",
+      "is_completed": false,
+      "id": 1
+    },
+    {
+      "message": "init repo 1",
+      "is_completed": false,
+      "id": 2
+    }
+  ],
+  "comments": {
+    "use": "run json-server --watch db.json on cmd"
+  }
+}
